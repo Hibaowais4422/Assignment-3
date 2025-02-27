@@ -1,9 +1,9 @@
 #  Python Data Types 
 
 # 1️⃣ Numeric Data Types
-x = 10  # Integer type
-y = 3.14  # Floating point type
-z = 2 + 3j  # Complex number type
+x = 10  # Integer types
+y = 3.14  # Floating point types
+z = 2 + 3j  # Complex number types
 
 print("Numeric Data Types:", x, y, z)
 print(type(x), type(y), type(z))  # Output: <class 'int'> <class 'float'> <class 'complex'>
